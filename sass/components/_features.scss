@@ -1,0 +1,31 @@
+.features {
+    font-size: 14px;
+    padding-bottom: 0px;
+}
+
+.item__picture {
+    width: 270px;
+    background-color: #F5F4FA;
+    margin-bottom: 30px;
+    border-radius: 4px;
+}
+.item__icon {
+    margin: 25px 100px;
+}
+
+.item__title2 {
+    color: var(--second-text-color);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+
+.item__text {
+    font-size: 14px;
+    line-height: 1.71;
+    letter-spacing: 0.03em
+}        
+
